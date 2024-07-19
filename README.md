@@ -36,7 +36,7 @@ Demo: https://blog-app-orcin-five.vercel.app/demo
   - Search and Share: Use the search feature to find posts and share them with others.
 
 - **Contact:**
-- For any questions or feedback, please reach out to your shravanrawas8@gmail.com.
+- For any questions or feedback, please reach out to shravanrawas8@gmail.com.
 
 ### Installation
 
