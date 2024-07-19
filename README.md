@@ -2,7 +2,7 @@
 
 A modern blog application built with React.js, Tailwind CSS, and Firebase. Users can create an account, upload a profile photo, update their bio and name, create, edit, and delete posts, follow other users, comment on posts, search for posts, and share posts. 
 
-Demo: blog-app-orcin-five.vercel.app
+Demo: https://blog-app-orcin-five.vercel.app/demo
 
 ## Features
 
