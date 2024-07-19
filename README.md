@@ -34,7 +34,7 @@ A modern blog application built with React.js, Tailwind CSS, and Firebase. Users
   - Search and Share: Use the search feature to find posts and share them with others.
 
 - **Contact:**
--For any questions or feedback, please reach out to your shravanrawas8@gmail.com.
+- For any questions or feedback, please reach out to your shravanrawas8@gmail.com.
 
 ### Installation
 
