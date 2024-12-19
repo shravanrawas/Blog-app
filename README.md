@@ -19,6 +19,7 @@ Demo: https://blog-app-orcin-five.vercel.app/
   - React.js: For building the user interface.
   - Tailwind CSS: For styling and responsive design.
   - Firebase: For authentication, real-time database, and storage.
+
      
 If you’d like to contribute to this project, please follow these steps:
 
